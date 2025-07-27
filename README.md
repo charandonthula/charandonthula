@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Charan Donthula
 
-<!--
-**charandonthula/charandonthula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a CSE student at SNIST, currently in 2nd year  
+💻 Currently learning: CS50, Java, Web Development  
+🎯 Goal: Build strong foundations in programming and get placed 
+🧭 Exploring different paths like web dev, app dev & problem solving
 
-Here are some ideas to get you started:
+## 🔧 Skills So Far
+- Languages: C, a bit of C++, basic HTML/CSS
+- Tools: Git (learning), HackerRank, VS Code
+- Platforms: HackerRank (C),(c++), TypingClub, CodeWithHarry
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I'm Doing Now
+- Improving softskills
+- Learning Git and GitHub basics
+- Learning web development
+- Doing CS50 and Java side by side
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/charan-donthula-71a341361/
+- Email: charandonthula995@gmail.com
+---
+
+*Still exploring. Still building. Still learning 🚀*
