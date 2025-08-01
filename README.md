@@ -3,7 +3,6 @@
 🎓 I'm a CSE student at SNIST, currently in 2nd year  
 💻 Currently learning: CS50, Java, Web Development  
 🎯 Goal: Build strong foundations in programming and get placed 
-
 🧭 Exploring different paths like web dev, app dev & problem solving
 
 ## 🔧 Skills So Far
