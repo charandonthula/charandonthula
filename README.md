@@ -7,15 +7,16 @@
 🧭 Exploring different paths like web dev, app dev & problem solving
 
 ## 🔧 Skills So Far
-- Languages: C, a bit of C++, basic HTML/CSS
+- Languages: C, a bit of C++, HTML/CSS
 - Tools: Git (learning), HackerRank, VS Code
-- Platforms: HackerRank (C),(c++), TypingClub, CodeWithHarry
+- Platforms: HackerRank (C)(c++), TypingClub, CodeWithHarry,Apna college
 
 ## 🧠 What I'm Doing Now
 - Improving softskills
-- Learning Git and GitHub basics
+- Learning Git and GitHub 
 - Learning web development
-- Doing CS50 and Java side by side
+- Doing CS50 and Java
+- Learning mern stack
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/charan-donthula-71a341361/
