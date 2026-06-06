@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4F46E5,100:7C3AED&height=220&section=header&text=Hey,%20I'm%20Charan%20👋&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4F46E5,100:7C3AED&height=220&section=header&text=Hey,%20I'm%20Charan%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+## 💻 About Me
 
 ```java
 public class Charan {
 
     String name        = "Charan Donthula";
-    String location    = "Hyderabad, Telangana, India 🇮🇳";
+    String location    = "Hyderabad, Telangana, India";
     String university  = "Sreenidhi Institute of Science and Technology";
-    String degree      = "B.Tech (2024 – 2028)";
+    String degree      = "B.Tech (2024 - 2028)";
     String cgpa        = "9.6";
 
     String[] currentlyDoing = {
@@ -31,6 +31,8 @@ public class Charan {
     String goal = "Land a software engineering role & grow as a developer";
 }
 ```
+
+<br/>
 
 ---
 
@@ -89,9 +91,9 @@ public class Charan {
 
 ## 🏆 Certifications
 
-| 🎓 Certification | 🏛️ Issuer | 📅 Year | 🌟 Highlight |
+| Certification | Issuer | Year | Highlight |
 |:---|:---:|:---:|:---|
-| **Programming in Java** | NPTEL · IIT Kharagpur | 2025 | 🥇 98% score · Top 1% among 26,000+ learners |
+| **Programming in Java** | NPTEL · IIT Kharagpur | 2025 | 98% score · Top 1% among 26,000+ learners |
 | **EF SET English Certificate** | EF SET | 2024 | C1 Advanced · 64/100 |
 | **AI Tools Workshop** | Be10x | 2026 | Generative AI Tools |
 | **GenAI Powered Data Analytics** | Tata Group · Forage | 2026 | EDA, Predictive Modeling, Responsible AI |
@@ -102,12 +104,6 @@ public class Charan {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=charandonthula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charandonthula&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=charandonthula&theme=tokyonight&hide_border=true" />
 
 </div>
@@ -116,16 +112,16 @@ public class Charan {
 
 ## 🎯 Currently Working On
 
-- 🔨 &nbsp; Improving **PrepSpace** with Cloudinary integration & resource search
-- 🧩 &nbsp; Solving problems consistently on **LeetCode**
-- 📖 &nbsp; Deepening skills in **React.js** and **Web Development**
-- 🌱 &nbsp; Exploring **software engineering practices** and system design
+- 🔨 Improving **PrepSpace** with Cloudinary integration & resource search
+- 🧩 Solving problems consistently on **LeetCode**
+- 📖 Deepening skills in **React.js** and **Web Development**
+- 🌱 Exploring **software engineering practices** and system design
 
 ---
 
 ## 🎓 Education
 
-| 🏫 Institution | 📜 Qualification | 📅 Period | 🌟 Grade |
+| Institution | Qualification | Period | Grade |
 |:---|:---:|:---:|:---:|
 | Sreenidhi Institute of Science & Technology | B.Tech | 2024 – 2028 | CGPA 9.6 |
 | Sri Chaitanya College of Education | Intermediate (MPC) | 2022 – 2024 | 98.4% |
