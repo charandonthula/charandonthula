@@ -108,7 +108,7 @@ public class Charan {
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=charandonthula&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=charandonthula&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -118,7 +118,7 @@ public class Charan {
 
 - 🔨 &nbsp; Improving **PrepSpace** with Cloudinary integration & resource search
 - 🧩 &nbsp; Solving problems consistently on **LeetCode**
-- 📖 &nbsp; Deepening skills in **React.js** and **Data Analytics**
+- 📖 &nbsp; Deepening skills in **React.js** and **Web Development**
 - 🌱 &nbsp; Exploring **software engineering practices** and system design
 
 ---
@@ -139,7 +139,7 @@ public class Charan {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Charan%20Donthula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charan-donthula-71a341361/)
 [![GitHub](https://img.shields.io/badge/GitHub-charandonthula-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charandonthula)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/charandonthula)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/charan_995/)
 
 </div>
 
