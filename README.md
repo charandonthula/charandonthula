@@ -4,8 +4,6 @@
 
 </div>
 
-<br/>
-
 ## 💻 About Me
 
 ```java
@@ -32,7 +30,6 @@ public class Charan {
 }
 ```
 
-<br/>
 
 ---
 
@@ -81,7 +78,6 @@ public class Charan {
       <a href="https://prepspace-frontend.netlify.app/pages/login.html">
         <img src="https://img.shields.io/badge/Live-4F46E5?style=flat-square&logo=netlify&logoColor=white"/>
       </a>
-      <br/>
       A full-stack collaborative study workspace platform where students create study groups, share resources, and work together. Built with <strong>Node.js, Express, MongoDB Atlas</strong> and secured with <strong>JWT authentication</strong>. Deployed on Netlify + Render.
     </td>
   </tr>
